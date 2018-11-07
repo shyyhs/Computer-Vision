@@ -1,6 +1,6 @@
-Computer Vision course in Kyoto University
+# Computer Vision course in Kyoto University
 
-This is the first assignment.
+### This is the first assignment.
 
 /*
 When I read all the powerpoints I thought it is very easy and began it in the last few days but there is a bug which is realated to the EigenVector computed by Numpy.
@@ -8,7 +8,7 @@ I should have began it ealier.
 */
 
 
-# Description:
+## Description:
 
 In this project, you will learn about homography matrices and use them to warp planar regions in images. The project consists of two major parts: rectification of a single planar region, and compositing of one planar region onto another. 
 
@@ -18,14 +18,14 @@ Your grade will be based on code that you add to complete the attached skeleton 
 
 You will need to compute the eigendecomposition of real-valued symmetric matrix. Numpy provides such as function: Numpy Eigendecomposition. Note that this function returns the eigenvectors as columns, not rows as one might expect. The i'th eigenvector is evecs[:,i].
 
-# Environment
+## Environment
 
-## 1.The easiest way:
+### 1.The easiest way:
 Google colabotory: https://colab.research.google.com/
 
 Download it and upload it to google colaborary.  
 
-## 2.Ipython
+### 2.Ipython
 You can open it in Ipython in anywhere but make sure the libaries are installed already including:
 
   google.colab
@@ -33,7 +33,7 @@ You can open it in Ipython in anywhere but make sure the libaries are installed 
   numpy
   matplotlib
   
-# Usage
+## Usage
   Open it and run it from begin to end.
   You can upload your own images, surely.
 
