@@ -25,7 +25,7 @@ Google colabotory: https://colab.research.google.com/
 
 Download it and upload it to google colaborary.  
 
-##2.Ipython
+## 2.Ipython
 You can open it in Ipython in anywhere but make sure the libaries are installed already including:
 
   google.colab
